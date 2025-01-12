@@ -1,0 +1,13 @@
+html, body {
+    background: #000033;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: green;
+}
+
+h2, h3, h4 {
+    text-decoration: underline;
+}
